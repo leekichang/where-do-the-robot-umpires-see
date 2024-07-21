@@ -8,6 +8,7 @@ __pycache__/
 data/2021.csv
 data/2022.csv
 data/2023.csv
+data/MLB.csv
 # Distribution / packaging
 .Python
 build/

@@ -5,7 +5,9 @@ __pycache__/
 
 # C extensions
 *.so
-
+data/2021.csv
+data/2022.csv
+data/2023.csv
 # Distribution / packaging
 .Python
 build/

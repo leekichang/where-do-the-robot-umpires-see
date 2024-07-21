@@ -1,6 +1,6 @@
 import pandas as pd
 
-files = ['./data/2021.csv', './data/2022.csv', './data/2023.csv']
+files = ['./data/2021.csv', './data/2022.csv', './data/2023.csv', './data/MLB.csv']
 
 chunk_size = 50000
 for file in files:

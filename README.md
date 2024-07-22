@@ -1,2 +1,2 @@
 # where-do-the-robot-umpires-see
-Repository for "Where Do The Robot Umpires See? Identifying Gray-zone in Automatic Ball-Strike System"
+Repository for "Analyzing the Impact of the Automatic Ball-Strike System in Professional Baseball: A Case Study on KBO League Data"
